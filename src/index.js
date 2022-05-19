@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
   <React.Fragment>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLİC_URL}>
       <App />
     </BrowserRouter>
   </React.Fragment>,
