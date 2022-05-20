@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.396b77ac.css",
-    "main.js": "/Portfolio/static/js/main.a856f0a6.js",
+    "main.js": "/Portfolio/static/js/main.faef2765.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Ingrediants.png": "/Portfolio/static/media/Ingrediants.feee0acc1e68f7ebc4e2.png",
     "static/media/Shopify.png": "/Portfolio/static/media/Shopify.902c9199b474f64f4967.png",
-    "static/media/myResume1.pdf": "/Portfolio/static/media/myResume1.74e9bdb754678ebcfcf3.pdf",
+    "static/media/myResume2.pdf": "/Portfolio/static/media/myResume2.ccbd42c3379dafdd319d.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -14,15 +14,16 @@
     "static/media/Expences.png": "/Portfolio/static/media/Expences.581f885d506053c0ef76.png",
     "static/media/Quates.png": "/Portfolio/static/media/Quates.13b59595cad6b0df745a.png",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.ea204bcb5d838e2bcb02.png",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.396b77ac.css.map": "/Portfolio/static/css/main.396b77ac.css.map",
-    "main.a856f0a6.js.map": "/Portfolio/static/js/main.a856f0a6.js.map",
+    "main.faef2765.js.map": "/Portfolio/static/js/main.faef2765.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.396b77ac.css",
-    "static/js/main.a856f0a6.js"
+    "static/js/main.faef2765.js"
   ]
 }
