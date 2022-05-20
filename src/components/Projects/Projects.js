@@ -26,7 +26,7 @@ function Projects() {
               imgPath={shopify}
               isBlog={false}
               title="Shopify"
-              description=" to share ... t with friends build with React.js, NodeJs, and Herouke. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="The perfect shopping app is built with Nodejs and includes MongoDB and Ejs template. The application has many features, especially authentication and authorization. In this application, which has many up-to-date third party packages, Stripe is used as the payment system."
               link="https://shopapp-unseparated-fullstack.herokuapp.com/"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={Ingrediants}
               isBlog={false}
               title="Ingrediants"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="A restaurant web application with a great visual, built using ReactJs and ModuleCss, it is a responsive application that displays the total expenses in the cart."
               link="https://ferhatadibelli0.github.io/IngrediantsApp/"
             />
           </Col>
@@ -45,7 +45,7 @@ function Projects() {
               imgPath={quates}
               isBlog={false}
               title="Quates.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="Multi page app is built with ReactJs using React-router. It has responsive design using Module Css."
               link="https://ferhatadibelli0.github.io/QuateApp/"
             />
           </Col>
@@ -55,7 +55,7 @@ function Projects() {
               imgPath={expences}
               isBlog={false}
               title="Expences"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="This app, which has a responsive design created with the great use of React components, also shows the expenditures dynamically according to the selected year in the diagram."
               link="https://ferhatadibelli0.github.io/expence-app/"
             />
           </Col>
@@ -64,7 +64,7 @@ function Projects() {
               imgPath={furnitures}
               isBlog={false}
               title="Furnitures"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="It is a furniture shop application created using the Redux library. It has a responsive design and Module Css is used."
               link="https://ferhatadibelli0.github.io/Furniture-Redux-App/"
             />
           </Col>
@@ -74,8 +74,7 @@ function Projects() {
               imgPath={animation}
               isBlog={false}
               title="Small Animation"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="It's a fun app built using react-transition-group, with animated list and modal.You can close the animated model and start the color animation with the toggle button."
               link="https://ferhatadibelli0.github.io/Animation-React-App/"
             />
           </Col>
