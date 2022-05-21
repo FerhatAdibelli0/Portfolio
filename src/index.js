@@ -4,10 +4,10 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
-//  basename={process.env.PUBLIC_URL}
+
 ReactDOM.render(
   <React.Fragment>
-    <BrowserRouter>
+    <BrowserRouter  basename={process.env.PUBLIC_URL}>
       <App />
     </BrowserRouter>
   </React.Fragment>,
