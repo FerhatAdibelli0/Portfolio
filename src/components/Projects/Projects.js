@@ -26,7 +26,7 @@ function Projects() {
               imgPath={shopify}
               isBlog={false}
               title="Shopify"
-              description="The perfect shopping app is built with Nodejs and includes MongoDB and Ejs template. The application has many features, especially authentication and authorization. In this application, which has many up-to-date third party packages, Stripe is used as the payment system."
+              description="The perfect shopping app is built with Nodejs and includes MongoDB and Ejs templates. The application has many features, especially authentication and authorization. In this application, which has many up-to-date third-party packages, Stripe is used as the payment system."
               link="https://shopapp-unseparated-fullstack.herokuapp.com/"
             />
           </Col>
@@ -45,7 +45,7 @@ function Projects() {
               imgPath={quates}
               isBlog={false}
               title="Quates.io"
-              description="Multi page app is built with ReactJs using React-router. It has responsive design using Module Css."
+              description="The multi-page app is built with ReactJs using React-router. It has a responsive design using Module CSS."
               link="https://ferhatadibelli0.github.io/QuateApp/"
             />
           </Col>
@@ -64,7 +64,7 @@ function Projects() {
               imgPath={furnitures}
               isBlog={false}
               title="Furnitures"
-              description="It is a furniture shop application created using the Redux library. It has a responsive design and Module Css is used."
+              description="It is a furniture shop application created using the Redux library. It has a responsive design and Module CSS is used."
               link="https://ferhatadibelli0.github.io/Furniture-Redux-App/"
             />
           </Col>
@@ -74,7 +74,7 @@ function Projects() {
               imgPath={animation}
               isBlog={false}
               title="Small Animation"
-              description="It's a fun app built using react-transition-group, with animated list and modal.You can close the animated model and start the color animation with the toggle button."
+              description="It's a fun app built using react-transition-group, with an animated list and modal. You can close the animated model and start the color animation with the toggle button."
               link="https://ferhatadibelli0.github.io/Animation-React-App/"
             />
           </Col>
