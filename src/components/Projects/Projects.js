@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import expences from "../../Assets/Projects/Expences.png";
-import animation from "../../Assets/Projects/animation.png";
+import message from "../../Assets/Projects/message.png";
 import quates from "../../Assets/Projects/Quates.png";
 import shopify from "../../Assets/Projects/Shopify.png";
 import furnitures from "../../Assets/Projects/Furnitures.png";
@@ -23,11 +23,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={shopify}
+              imgPath={message}
               isBlog={false}
-              title="Shopify"
-              description="The perfect shopping app is built with Nodejs and includes MongoDB and Ejs templates. The application has many features, especially authentication and authorization. In this application, which has many up-to-date third-party packages, Stripe is used as the payment system."
-              link="https://shopapp-unseparated-fullstack.herokuapp.com/"
+              title="MessageNode"
+              description="MessageNode is a great MERN app. Authentication and authorization have been set up on the backend and all CRUD operations are available. GraphQL is used, and images can be loaded via image picker."
+              link="https://messageappferhat.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -39,7 +39,6 @@ function Projects() {
               link="https://ferhatadibelli0.github.io/IngrediantsApp/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={quates}
@@ -49,7 +48,15 @@ function Projects() {
               link="https://ferhatadibelli0.github.io/QuateApp/"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={shopify}
+              isBlog={false}
+              title="Shopify"
+              description="The perfect shopping app is built with Nodejs and includes MongoDB and Ejs templates. The application has many features, especially authentication and authorization. In this application, which has many up-to-date third-party packages, Stripe is used as the payment system."
+              link="https://shopapp-unseparated-fullstack.herokuapp.com/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={expences}
@@ -59,6 +66,7 @@ function Projects() {
               link="https://ferhatadibelli0.github.io/expence-app/"
             />
           </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={furnitures}
@@ -66,16 +74,6 @@ function Projects() {
               title="Furnitures"
               description="It is a furniture shop application created using the Redux library. It has a responsive design and Module CSS is used."
               link="https://ferhatadibelli0.github.io/Furniture-Redux-App/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={animation}
-              isBlog={false}
-              title="Small Animation"
-              description="It's a fun app built using react-transition-group, with an animated list and modal. You can close the animated model and start the color animation with the toggle button."
-              link="https://ferhatadibelli0.github.io/Animation-React-App/"
             />
           </Col>
         </Row>
