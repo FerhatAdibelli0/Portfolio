@@ -1,36 +1,36 @@
-import React from "react";
-import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import React from 'react';
+import Card from 'react-bootstrap/Card';
+import { ImPointRight } from 'react-icons/im';
 
 function AboutCard() {
   return (
-    <Card className="quote-card-view">
+    <Card className='quote-card-view'>
       <Card.Body>
-        <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ferhat Adibelli </span>
-            from <span className="purple"> İzmir, Turkey.</span>
-            <br />I am a FullStack Web Developer with 14 months of experience.
+        <blockquote className='blockquote mb-0'>
+          <p style={{ textAlign: 'justify' }}>
+            Hi Everyone, I am <span className='purple'>Ferhat Adibelli </span>
+            from <span className='purple'> İzmir, Turkey.</span>
+            <br />I am a FullStack Web Developer with 2 years of experience.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
-            <li className="about-activity">
+            <li className='about-activity'>
               <ImPointRight /> Reading Books
             </li>
-            <li className="about-activity">
+            <li className='about-activity'>
               <ImPointRight /> Writting Tech Blogs
             </li>
-            <li className="about-activity">
+            <li className='about-activity'>
               <ImPointRight /> Travelling
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p style={{ color: 'rgb(155 126 172)' }}>
+            "Strive to build things that make a difference!"{' '}
           </p>
-          <footer className="blockquote-footer">Ferhat_A</footer>
+          <footer className='blockquote-footer'>Ferhat_A</footer>
         </blockquote>
       </Card.Body>
     </Card>
